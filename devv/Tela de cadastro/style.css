@@ -1,0 +1,394 @@
+.desktop {
+  background-color: #d3d3d3;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #d3d3d3;
+  overflow: hidden;
+  width: 1440px;
+  height: 1734px;
+  position: relative;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 1483px;
+  top: -2px;
+  left: 0;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 1440px;
+  height: 254px;
+  top: 0;
+  left: 0;
+  background-color: #2d4a22;
+  background-blend-mode: multiply;
+}
+
+.desktop .dev-finance {
+  position: absolute;
+  width: 263px;
+  height: 42px;
+  top: 72px;
+  left: 595px;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 226px;
+  top: -1px;
+  left: 18px;
+  transform: rotate(-0.11deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 2.56px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper {
+  color: #ffffff;
+  letter-spacing: 0.82px;
+}
+
+.desktop .span {
+  color: #49aa26;
+  letter-spacing: 0.82px;
+}
+
+.desktop .overlap-group-wrapper {
+  position: absolute;
+  width: 512px;
+  height: 1317px;
+  top: 166px;
+  left: 464px;
+}
+
+.desktop .overlap-group {
+  position: relative;
+  width: 714px;
+  height: 1544px;
+  top: -97px;
+  left: -101px;
+  background-image: url(./img/rectangle-17.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .j-tem-uma-conta {
+  position: absolute;
+  width: 243px;
+  top: 1375px;
+  left: 235px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 1.2px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-2 {
+  color: #000000;
+  letter-spacing: 0.18px;
+}
+
+.desktop .text-wrapper-3 {
+  color: #49aa26;
+  letter-spacing: 0.18px;
+}
+
+.desktop .facebook {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 151px;
+  left: 410px;
+  object-fit: cover;
+}
+
+.desktop .google {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  top: 151px;
+  left: 244px;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  width: 420px;
+  top: 320px;
+  left: 148px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 1.28px;
+  line-height: 36px;
+}
+
+.desktop .line {
+  width: 171px;
+  top: 250px;
+  left: 133px;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+
+.desktop .div-wrapper {
+  position: absolute;
+  width: 393px;
+  height: 65px;
+  top: 533px;
+  left: 161px;
+  border-radius: 7px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  top: 13px;
+  left: 12px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 1.12px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.desktop .rectangle-2 {
+  position: absolute;
+  width: 393px;
+  height: 65px;
+  top: 672px;
+  left: 161px;
+  border-radius: 7px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.desktop .rectangle-3 {
+  position: absolute;
+  width: 393px;
+  height: 65px;
+  top: 811px;
+  left: 161px;
+  border-radius: 7px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.desktop .rectangle-4 {
+  position: absolute;
+  width: 393px;
+  height: 65px;
+  top: 950px;
+  left: 161px;
+  border-radius: 7px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.desktop .text-wrapper-6 {
+  position: absolute;
+  top: 774px;
+  left: 161px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 1.12px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  top: 635px;
+  left: 161px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 1.12px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-8 {
+  position: absolute;
+  top: 913px;
+  left: 161px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 1.12px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  top: 488px;
+  left: 161px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 1.12px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-10 {
+  position: absolute;
+  width: 22px;
+  top: 229px;
+  left: 347px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 1.12px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 171px;
+  height: 2px;
+  top: 250px;
+  left: 410px;
+  object-fit: cover;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 393px;
+  height: 60px;
+  top: 1247px;
+  left: 161px;
+  background-color: #ff782d;
+  border-radius: 40px;
+}
+
+.desktop .text-wrapper-11 {
+  position: absolute;
+  top: 11px;
+  left: 129px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 1.6px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.desktop .line-2 {
+  width: 393px;
+  top: 1350px;
+  left: 170px;
+  position: absolute;
+  height: 1px;
+  object-fit: cover;
+}
+
+.desktop .rectangle-5 {
+  position: absolute;
+  width: 393px;
+  height: 102px;
+  top: 1147px;
+  left: 522px;
+  background-color: #d9d9d9;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #a2a2a2;
+  box-shadow: 0px 4px 4px #9f9f9f40;
+}
+
+.desktop .text-wrapper-12 {
+  position: absolute;
+  top: 31px;
+  left: 72px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 1.2px;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.desktop .rectangle-6 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 30px;
+  left: 22px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 2px solid;
+  border-color: #7e7e7e;
+}
+
+.desktop .kisspng-recaptcha {
+  position: absolute;
+  width: 89px;
+  height: 75px;
+  top: 17px;
+  left: 283px;
+  object-fit: cover;
+}
+
+.desktop .dev-finance-2 {
+  position: absolute;
+  width: 263px;
+  height: 34px;
+  top: 1662px;
+  left: 587px;
+}
+
+.desktop .text-wrapper-13 {
+  position: absolute;
+  width: 226px;
+  top: -1px;
+  left: 18px;
+  transform: rotate(-0.09deg);
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #918f8f;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 1.92px;
+  line-height: 36px;
+  white-space: nowrap;
+}
